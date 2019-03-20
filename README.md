@@ -1,4 +1,4 @@
-# Data100
+# Data 100: Principles and Techniques of Data Science
 
 UC Berkeley course that explores key areas of data science including:
   1. Question formulation
